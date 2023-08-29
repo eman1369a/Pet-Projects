@@ -1,6 +1,6 @@
 # Password Breach Analysis: Promoting Cybersecurity Awareness
 
-![Security](../2020-Data-Breaches-800x400-1.jpg)
+![Security](https://github.com/eman1369a/Pet-Projects/blob/main/Password%20Breach%20Analysis/2020-Data-Breaches-800x400-1.jpg)
 
 ## Project Overview
 
